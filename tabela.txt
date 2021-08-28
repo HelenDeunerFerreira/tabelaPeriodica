@@ -1,0 +1,11 @@
+simbolo;nome;atomico;linha;coluna;estado
+Hg;Mercurio;80;6;12;l
+Na;Sodio;11;1;3;s
+Au;Ouro;79;6;11;s
+Li;Litio;3;2;1;s
+He;Helio;2;1;18;g
+Ne;Neon;10;2;18;g
+Br;Bromo;35;4;17;l
+Cl;Cloro;17;3;17;g
+O;Oxigenio;8;2;16;g
+Pt;Platina;78;6;10;s
